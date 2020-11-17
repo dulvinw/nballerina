@@ -1,6 +1,6 @@
 # This repository contains code for translating Ballerina IR to LLVM IR
 
- First build the LLVM and then build the nBallerina compiler.  Here are the steps:
+ First build the LLVM and then build the nBallerina compiler.  Here are the steps:.
 
 [1] Checkout the sources and go to the build/llvm directory
 [2] Issue the following command to configure the sources:
